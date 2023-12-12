@@ -27,6 +27,4 @@ function removeElement(array, item) {
 const array = [1, '2', 5, 5, 3, '5', 4, 5, 6, '7'];
 removeElement(array, 5);
 
-console.log(removeElement(array, 5));
-
-// const removeElement = (array, item) => array.filter(element => element !== item)
+console.log(array);
